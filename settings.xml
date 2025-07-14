@@ -1,0 +1,9 @@
+<settings>
+    <servers>
+        <server>
+            <id>central</id>
+            <username>${env.USERNAME}</username>
+            <password>${env.PASSWD}</password>
+        </server>
+    </servers>
+</settings>
